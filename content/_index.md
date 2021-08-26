@@ -14,6 +14,6 @@ Contact me at [@linkin] or by [email].
 
 
 [projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[resume]: /resume
 [@linkin]: https://www.linkedin.com/in/yu-chen-hsieh-75393515b/
 [email]: yo.c.hsieh@gmail.com
