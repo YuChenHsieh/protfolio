@@ -14,6 +14,6 @@ Contact me at [@linkin] or by [email].
 
 
 [projects]: /projects
-[resume]: /resume
+[resume]: https://www.cakeresume.com/yu-chen-hseieh
 [@linkin]: https://www.linkedin.com/in/yu-chen-hsieh-75393515b/
 [email]: yo.c.hsieh@gmail.com
