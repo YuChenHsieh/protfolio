@@ -1,4 +1,4 @@
-baseURL = 'https://yuchenhsieh.github.io/'
+baseURL = 'https://yuchenhsieh.github.io/YuChenHsieh/'
 languageCode = 'en-us'
 title = 'YuChenHsieh'
 theme = "hugo-sustain"
